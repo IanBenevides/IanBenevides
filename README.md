@@ -1,8 +1,7 @@
-<h1 align="justify">Hello, Dev's</h1>
-<h2 align="justify">Software Developer & Systems Analyst </h2>
-<h3 align="justify">I am an IT professional with expertise in web development and systems architecture, heavily experienced in Python, Django, JavaScript, React, and SQLite3. Passionate about continuous learning and problem-solving, I have a proven track record of developing academic management systems and corporate portals. I am looking for opportunities to leverage my technical skills and deliver impactful, high-quality software solutions.</h3>
+<h1 align="justify">Hello, Dev's👋</h1>
+<h3 align="justify">My name is Ian Benevides, i am an IT professional with expertise in web development and systems architecture, heavily experienced in Python, Django, JavaScript, React, and SQLite3. Passionate about continuous learning and problem-solving, I have a proven track record of developing academic management systems and corporate portals. I am looking for opportunities to leverage my technical skills and deliver impactful, high-quality software solutions.</h3>
 
-- 📫 How to reach me **ian.benevides.com**
+- 📫 How to reach me **ian.benevides.abreu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
