@@ -37,8 +37,6 @@ My name is Ian Benevides, i am an IT professional with expertise in web developm
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   </a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img align="center" alt="mocha" height="30" width="40" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
